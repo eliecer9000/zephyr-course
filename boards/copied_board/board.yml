@@ -1,0 +1,6 @@
+board:
+  name: copied_board
+  full_name: COPIED-BOARD-FRDM-MCXA156
+  vendor: nxp
+  socs:
+  - name: mcxa156
